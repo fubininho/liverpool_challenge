@@ -1,0 +1,3 @@
+,Team,Type,Subtype,Period,Start Frame,End Frame,Start Time [s],End Time [s],From,To,Start X,Start Y,End X,End Y
+0,Home,PASS,,1.0,48,88.0,2.4000000000000004,4.4,9.0,10.0,19.637861545094758,-12.837002716028003,43.1269348819475,-5.037609726098776
+1,Home,SET PIECE,,,0,0.0,,,,,,,,
